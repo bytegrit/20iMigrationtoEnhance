@@ -86,6 +86,11 @@ Logging and Error Handling
 - The tool outputs messages to indicate the success or failure of each action.
 - If a backup or FTP upload fails, the relevant error will be displayed.
 
+
+Upcoming Features
+
+- Enhanced Migration: Automatically create websites and migrate relevant with permission folders, extracting with relevant database.
+
 License
 
 This project is licensed under the MIT License.
