@@ -14,8 +14,7 @@ Setup
 
 1. Clone the Repository
 
-   git clone https://your-repo-url.git
-   cd your-repo-directory
+   git clone https://github.com/bytegrit/20iMigrationtoEnhance
 
 2. Install Dependencies
 
